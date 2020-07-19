@@ -1,0 +1,93 @@
+
+body{
+ background-image: url("BACKGROUND.JPG");
+ /*background-repeat: no-repeat;*/
+ background-size:100%;
+}    
+#wel h1{
+    color: khaki;
+    text-align:center ;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 3px;
+    width:100%;
+    margin:0px auto;
+    padding: 20px;
+}
+#wel h3{
+    text-align: center;
+    font-size: 50px;
+    color:yellow;
+    width:100%;
+    margin:0px;
+    padding:25px;
+}
+#rules{
+    font-size: 40px;
+    border: 10px groove gray;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin: 15px;
+}
+#demo{
+    font-size: 40px;
+    border: 10px groove gray;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin: 15px;
+}
+#credits{
+    font-size: 40px;
+    border: 10px groove gray;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin: 15px;
+}
+
+#references{
+    font-size: 40px;
+    border: 10px groove gray;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin: 15px;
+}
+#motive{
+    font-size: 40px;
+    border: 10px groove gray;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin: 15px;
+}
+button{
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 13px 13px 13px 13px;
+}
+#btn{
+    width:100%;
+    margin: 0px auto;
+    text-align: center;
+}
+button:hover{
+background-color: rgb(255, 94, 94);
+color:black;
+cursor:grab;
+margin:12px;
+}
+ul{
+    background:green;
+    color: white;
+}
+p{
+    background:green;
+    color: white;
+}
+a{
+    text-decoration:none ;
+}
